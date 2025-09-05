@@ -12,7 +12,7 @@
 ## 🚀 Live Demo
 Frontend: [investbuddy.vercel.app](https://investbuddy.vercel.app)  
 Backend: [investbuddy-backend.onrender.com](https://investbuddy-backend.onrender.com)  
-GitHub Repo: [github.com/yourusername/investbuddy](https://github.com/yourusername/investbuddy)
+GitHub Repo: [github.com/yourusername/investbuddy](https://github.com/InfoNaveen/investbuddy)
 
 ---
 
@@ -53,5 +53,5 @@ It combines an **AI chatbot**, personalized learning, interactive quizzes, and s
 ## ⚡ Setup (Local)
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/investbuddy.git
+   git clone https://github.com/InfoNaveen/investbuddy.git
    cd investbuddy
