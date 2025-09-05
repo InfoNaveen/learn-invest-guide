@@ -12,7 +12,7 @@
 ## 🚀 Live Demo
 Frontend: [investbuddy.vercel.app](https://investbuddy.vercel.app)  
 Backend: [investbuddy-backend.onrender.com](https://investbuddy-backend.onrender.com)  
-GitHub Repo: [github.com/yourusername/investbuddy](https://github.com/InfoNaveen/investbuddy)
+GitHub Repo: [github.com/yourusername/investbuddy]([https://github.com/InfoNaveen/investbuddy](https://github.com/InfoNaveen/learn-invest-guide))
 
 ---
 
