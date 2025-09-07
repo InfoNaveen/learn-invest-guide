@@ -5,7 +5,7 @@
 
 ## 🌐 Project Links  
 - **Live Demo (Frontend):** [investbuddy.vercel.app](https://investbuddy.vercel.app)  
-- **Backend API:** [investbuddy-backend.onrender.com](https://investbuddy-backend.onrender.com)  
+- **Backend API:** [investbuddy-backend.onrender.com](https://investbuddy-backend.onrender.com)  (in progress)
 - **GitHub Repo:** [github.com/InfoNaveen/investbuddy](https://github.com/InfoNaveen/learn-invest-guide.git)  
 - **Lovable Project:** [lovable.dev](https://lovable.dev/projects/2bb5bf41-1763-49f7-81f6-663d0624d843)  
 
